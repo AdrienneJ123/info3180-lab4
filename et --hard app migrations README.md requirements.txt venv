@@ -1,0 +1,45 @@
+[33m4cb8c7b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Completed Lab 4
+[33m31d0412[m updates to requirements.txt
+[33mb9c9864[m updated requirements to latest versions
+[33m635936a[m add missing csrf_token hidden field
+[33mdf0d51f[m Update login form
+[33mbba29fa[m updated initial views.py and init.py files
+[33m313c360[m Add initial login form
+[33m4622c09[m added starter UserProfile model
+[33md5fee3f[m Merge branch 'main' of https://github.com/uwi-info3180/info3180-lab4-starter
+[33m6238b84[m Updated config.py with some additional config variables
+[33m877d2c2[m Added example db url to sample .env
+[33m7884e5b[m Fix navbar based on updated Bootstrap CSS
+[33md9d0820[m Update to latest version of CSS Bootstrap
+[33m8233fe9[m Updated sample .env file
+[33m1128f43[m Updated requirements.txt for the lab
+[33m01b22c3[m Update README
+[33me0f2b19[m Remove files that are no longer needed
+[33m71ae8ea[m Merge pull request #2 from uwi-info3180/dependabot/pip/werkzeug-2.2.3
+[33m49504a1[m Bump werkzeug from 2.0.3 to 2.2.3
+[33m6037bcb[m Add python-dotenv and simpliy config.py
+[33mc2e2fdf[m Update Heroku Python runtime, requirements and gitignore. Also added sample .env file.
+[33m32b65a9[m Get configuration from Config object
+[33m843378e[m fix incorrect configuration keys
+[33m6906273[m updated gitignore
+[33mde463de[m Moved uploads folder to project root
+[33m19c9191[m Move configuration to config.py
+[33m9fc5344[m Update README
+[33mf6d313e[m Add if __name__ == "__main__" guard
+[33m9d542ea[m Update requirements for lab
+[33m206046b[m Update Python runtime for Heroku
+[33m1cd8d3f[m Merge remote-tracking branch 'origin/master'
+[33ma7e0aea[m Update requirements to fix security vulnerabilities
+[33m1b8d303[m Merge pull request #1 from uwi-info3180/dependabot/pip/werkzeug-0.15.3
+[33mc52c4f6[m Bump werkzeug from 0.14.1 to 0.15.3
+[33m1383d8d[m updated local stylesheet and javascript references to use Flask url_for()
+[33m5027449[m Updated the README
+[33m43b6913[m Updated requirements
+[33m85c4c1d[m Updated runtime.txt so Heroku uses Python 3
+[33m234b8cc[m Rename Upload file template, put comments in views.py and update flash messages
+[33mcd28fc7[m Add Flask-WTF
+[33m1a47dc4[m Updated to Boostrap 4
+[33m7af49a0[m Follow PEP 8 Coding Style for Python
+[33m7198b2e[m Add runtime file for Heroku to force Python 2
+[33m8165b5d[m Add PyCharm project folder to gitignore
+[33m5d74cf6[m initial commit
